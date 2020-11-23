@@ -1,9 +1,6 @@
 <div align="center">
     <img src="https://github.com/KryptonPlusPlus/Matriz-Leds/blob/master/C%C3%B3digo%20Processing/PainelLed/data/TelaProcessing.png" alt"Screen-Processing" title="Screen-Processing"/>
 </div>
-<!-- 
-
--->
 
 # :scroll: Sumário
 
